@@ -8,6 +8,8 @@ This script automatically checks for the start of a presentation on the specifie
 - [Downloading ChromeDriver](#downloading-chromedriver)
 - [Usage](#usage)
 - [Troubleshooting](#troubleshooting)
+- [Discalimer](#disclaimer)
+- [License](#license)
 
 ## Prerequisites
 
